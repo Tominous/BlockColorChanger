@@ -1,7 +1,7 @@
 # BlockColorChanger
 minecraft spigot plugin
 
-Right-click on the dye to change the color of the colored block.
+Right-click on the dye with your dominant hand to change the color of the colored block.
 
 ## Corresponding block
 
