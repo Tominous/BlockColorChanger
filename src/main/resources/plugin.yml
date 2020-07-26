@@ -1,0 +1,4 @@
+name: BlockColorChanger
+version: ${project.version}
+main: net.sbkitt.blockcolorchanger.BlockColorChanger
+api-version: 1.16
