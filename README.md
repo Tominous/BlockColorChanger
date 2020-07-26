@@ -12,3 +12,6 @@ Right-click on the dye to change the color of the colored block.
 - Concrete Powder
 - Terracotta (colored)
 - Glazed Terracotta
+##-----------------
+Native Minecraft Version: 1.16
+Tested Minecraft Versions:1.16
