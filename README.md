@@ -7,9 +7,9 @@ Right-click on the dye to change the color of the colored block.
 
 * Wool
 + Carpet
-+ Stained Glass
-+ Stained Glass Pane
-+ Concrete Powder
-+ Terracotta (colored)
-+ Glazed Terracotta 
+- Stained Glass
+- Stained Glass Pane
+- Concrete Powder
+- Terracotta (colored)
+- Glazed Terracotta 
 
